@@ -1,0 +1,15 @@
+class Solution {
+    public int countSubstrings(String s) {
+        int cnt=0;
+        for(int i=0;i<s.length();i++){
+            for(int j=i;j<s.length();j++){
+                String str=s.substring(i,j+1);
+                String rev=new StringBuilder(str).reverse().toString();
+                if(str.equals(rev)){
+                    cnt++;
+                }
+            }
+        }
+        return cnt;
+    }
+}
