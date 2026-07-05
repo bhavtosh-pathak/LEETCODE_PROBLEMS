@@ -31,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0057-insert-interval) |
 | [0455-assign-cookies](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
