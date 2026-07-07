@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1288-remove-covered-intervals) |
@@ -68,9 +69,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
