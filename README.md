@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0057-insert-interval) |
 | [0435-non-overlapping-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0860-lemonade-change](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1288-remove-covered-intervals) |
@@ -54,10 +55,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2418-sort-the-people) |
 ## Counting Sort
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
