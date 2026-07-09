@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0791-custom-sort-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2418-sort-the-people](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2418-sort-the-people) |
 ## Greedy
 |  |
@@ -64,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0791-custom-sort-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0791-custom-sort-string) |
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2418-sort-the-people](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2418-sort-the-people) |
 ## Counting Sort
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
