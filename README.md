@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1544-make-the-string-great) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2418-sort-the-people](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2418-sort-the-people) |
 ## Greedy
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
