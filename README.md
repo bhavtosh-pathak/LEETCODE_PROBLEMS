@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0880-decoded-string-at-index) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1544-make-the-string-great) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0880-decoded-string-at-index) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2696-minimum-string-length-after-removing-substrings) |
