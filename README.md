@@ -139,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0394-decode-string) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
