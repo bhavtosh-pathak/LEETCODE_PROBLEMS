@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0394-decode-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0647-palindromic-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0791-custom-sort-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0791-custom-sort-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0791-custom-sort-string) |
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2090-k-radius-subarray-averages) |
 ## Math
 |  |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0225-implement-stack-using-queues) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
