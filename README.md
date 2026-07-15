@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0791-custom-sort-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0791-custom-sort-string) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0347-top-k-frequent-elements](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0791-custom-sort-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0791-custom-sort-string) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
@@ -177,13 +181,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
