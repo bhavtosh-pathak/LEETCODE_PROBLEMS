@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0844-backspace-string-compare) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1288-remove-covered-intervals) |
 | [2090-k-radius-subarray-averages](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2090-k-radius-subarray-averages) |
 | [2418-sort-the-people](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2418-sort-the-people) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1288-remove-covered-intervals) |
 | [2418-sort-the-people](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2418-sort-the-people) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -214,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0692-top-k-frequent-words) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
