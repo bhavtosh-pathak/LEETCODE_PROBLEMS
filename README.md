@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0187-repeated-dna-sequences) |
 | [0316-remove-duplicate-letters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2090-k-radius-subarray-averages) |
@@ -225,4 +228,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
