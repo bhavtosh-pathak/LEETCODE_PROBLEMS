@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0680-valid-palindrome-ii) |
+| [0846-hand-of-straights](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0739-daily-temperatures) |
+| [0846-hand-of-straights](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1288-remove-covered-intervals) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0791-custom-sort-string) |
+| [0846-hand-of-straights](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0846-hand-of-straights) |
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1288-remove-covered-intervals) |
 | [2418-sort-the-people](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2418-sort-the-people) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0791-custom-sort-string) |
+| [0846-hand-of-straights](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0846-hand-of-straights) |
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2418-sort-the-people](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2418-sort-the-people) |
