@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0680-valid-palindrome-ii) |
 | [0846-hand-of-straights](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0739-daily-temperatures) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0846-hand-of-straights) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0846-hand-of-straights) |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -212,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
