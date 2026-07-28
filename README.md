@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2418-sort-the-people) |
+| [3536-maximum-product-of-two-digits](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3536-maximum-product-of-two-digits](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
