@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2090-k-radius-subarray-averages](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2090-k-radius-subarray-averages) |
 | [2418-sort-the-people](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2418-sort-the-people) |
+| [3731-find-missing-elements](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2418-sort-the-people](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2418-sort-the-people) |
+| [3731-find-missing-elements](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
