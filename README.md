@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
+| [1004-max-consecutive-ones-iii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1288-remove-covered-intervals) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2090-k-radius-subarray-averages](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2090-k-radius-subarray-averages) |
 ## Math
@@ -195,10 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Recursion
 |  |
