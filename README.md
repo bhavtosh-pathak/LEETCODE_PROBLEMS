@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0692-top-k-frequent-words) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
