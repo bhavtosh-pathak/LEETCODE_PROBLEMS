@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2418-sort-the-people](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2418-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0187-repeated-dna-sequences) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0022-generate-parentheses) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
 |  |
 | ------- |
