@@ -1,6 +1,6 @@
 class Solution {
-    public static void solve(String digits,int idx,String ans,List<String> list,HashMap<Character,String> mp){
-        if(idx>=digits.length()){
+    public static void solve(int idx,String ans,String digits,List<String> list,HashMap<Character,String> mp){
+        if(ans.length()==digits.length()){
             list.add(ans);
             return;
         }
@@ -8,12 +8,9 @@ class Solution {
         String str=mp.get(ch);
         for(int i=0;i<str.length();i++){
             ans+=str.charAt(i);
-            solve(digits,idx+1,ans,list,mp);
+            solve(idx+1,ans,digits,list,mp);
             ans=ans.substring(0,ans.length()-1);
-
         }
-
-
     }
     public List<String> letterCombinations(String digits) {
         List<String> list=new ArrayList<>();
@@ -26,7 +23,7 @@ class Solution {
         mp.put('7',"pqrs");
         mp.put('8',"tuv");
         mp.put('9',"wxyz");
-        solve(digits,0,"",list,mp);
+        solve(0,"",digits,list,mp);
         return list;
     }
 }
