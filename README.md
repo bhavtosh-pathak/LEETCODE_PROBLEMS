@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0057-insert-interval) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/0046-permutations) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bhavtosh-pathak/LEETCODE_PROBLEMS/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
 |  |
